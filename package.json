@@ -3,11 +3,14 @@
 	"displayName": "show-enablement-issue",
 	"description": "Shows a view might not be shown if it uses enablement",
 	"version": "0.0.1",
-   "publisher": "jdmchp",
-   "author": {
+    "publisher": "jdmchp",
+    "author": {
         "name": "jdmchp"
     },
-  "license": "SEE LICENSE IN LICENSE.txt",
+	"repository": {
+		"url": "https://github.com/jdmchp/show-enablement-issue.git"
+	},
+    "license": "SEE LICENSE IN LICENSE.txt",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
