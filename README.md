@@ -34,3 +34,13 @@ then the icon is shown all the time.
 
 This shows me that the `when` clause is not being handled in the same way as in vscode.
 
+I was using the theia blue print repo:
+```
+$ git remote -v     
+origin	https://github.com/eclipse-theia/theia (fetch)
+origin	https://github.com/eclipse-theia/theia (push)
+$ git rev-parse HEAD
+
+92dcf245c498afd93e541f598e2540f8685e9287
+
+```
